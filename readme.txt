@@ -1,2 +1,1 @@
-dvh;fhg.lds
-dfln
+to jest plik przeczytaj mnie
